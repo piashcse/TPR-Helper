@@ -1,4 +1,4 @@
-package com.example.mvvmbasics
+package com.example.tprhelper
 
 import org.junit.Test
 
