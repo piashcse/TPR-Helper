@@ -1,0 +1,2 @@
+include ':app', ':tprhelper'
+rootProject.name='MVVMBasics'
